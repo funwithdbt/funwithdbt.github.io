@@ -10,7 +10,8 @@ layout: post
 | 1        | pending | 2019-01-01 | 2019-01-01     | 2019-01-02   |
 | 1        | shipped | 2019-01-02 | 2019-01-02     | null         |
 
-## ✅ Technique: Snapshots
+
+✅ Technique: Snapshots
 
 ```bash
 $ dbt snapshot
