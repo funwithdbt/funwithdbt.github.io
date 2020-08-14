@@ -3,8 +3,7 @@ layout: post
 ---
 
 ## Feeling fresh?
-
-Optionally, specify a `loaded_at_field` and `freshness`:
+`loaded_at_field` and `freshness`:
 
 ```yml
 version: 2
