@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-**Data Warehouse**
+## Data Warehouse
     - Run SQL
     - Data already loaded
 
