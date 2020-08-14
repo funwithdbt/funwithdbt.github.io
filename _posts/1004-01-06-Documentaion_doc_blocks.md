@@ -4,7 +4,7 @@ layout: post
 
 ## docs blocks
 
-`docs` blocks allow you to write long-form descriptions.
+docs blocks allow you to write long-form descriptions.
 
 ```md
 {% docs order_status %}
