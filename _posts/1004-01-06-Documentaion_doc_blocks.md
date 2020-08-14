@@ -6,7 +6,7 @@ layout: post
 
 docs blocks allow you to write long-form descriptions.
 
-```md
+```bash
 {% docs order_status %}
 One of the following values:
 
