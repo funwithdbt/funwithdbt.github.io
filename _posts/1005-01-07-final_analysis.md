@@ -17,6 +17,4 @@ from {{ ref('fct_mrr') }}
 
 group by 1
 ```
-.caption[
 [Analyses](https://docs.getdbt.com/docs/analyses)
-]
