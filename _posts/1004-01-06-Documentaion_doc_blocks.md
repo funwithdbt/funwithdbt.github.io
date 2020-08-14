@@ -16,7 +16,7 @@ One of the following values:
 | shipped        | Order has been shipped but hasn't yet been delivered       |
 | completed      | Order has been received by customers                       |
 | return_pending | Customer has indicated they would like to return this item |
-| returned       | Item has been returned                                     |
+| returned       | Item has beeen returned                                     |
 
 {% enddocs %}
 
