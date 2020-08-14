@@ -2,9 +2,7 @@
 layout: post
 ---
 
-## Sources
-
-image example
+## Context ..
 
 ![Picture example](images/er_diagram.PNG)
 
