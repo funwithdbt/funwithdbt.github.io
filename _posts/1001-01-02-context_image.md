@@ -6,5 +6,5 @@ layout: post
 
 image example
 
-![Picture example](images/er_diagram.png)
+![Picture example](images/er_diagram.PNG)
 
