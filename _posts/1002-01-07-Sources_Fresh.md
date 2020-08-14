@@ -6,8 +6,6 @@ layout: post
 
 Optionally, specify a `loaded_at_field` and `freshness`:
 
-.denser-text[
-
 ```yml
 version: 2
 
@@ -26,8 +24,6 @@ sources:
           error_after: {count: 24, period: hour}
 
 ```
-
-]
 Then run `dbt source snapshot-freshness`
 
 

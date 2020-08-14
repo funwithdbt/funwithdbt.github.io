@@ -2,11 +2,9 @@
 layout: post
 ---
 
-# Selecting from sources
+## Selecting from sources
 
-Use the `{{ source() }}` function to select from a source in a model:
-
-.left-column[
+Use the _{{ source() }}_ function to select from a source in a model:
 
 ```sql
 with source as (
@@ -15,9 +13,6 @@ with source as (
 
 ),
 
-renamed as (
-
-...
 ```
 
 

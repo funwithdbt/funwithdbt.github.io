@@ -14,6 +14,6 @@ dbt test --exclude source:*     # or you can even skip these!
 dbt source snapshot-freshness   # powers freshness viz in dbt Cloud
 ```
 
-Another option: `snapshot-freshness` first, so that your job won't run on stale data.
+Alternate: `snapshot-freshness` first, so that job won't run on stale data.
 
 

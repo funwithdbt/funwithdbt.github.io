@@ -2,7 +2,7 @@
 layout: post
 ---
 
-## Checkpoint
+## Sources 
 Given the following YML file, what will the following select statements compile to?
 
 .left-column[
@@ -20,10 +20,6 @@ sources:
     tables:
       - name: payments
 ```
-]
-
-
-.right-column[
 `SQL`
 ```sql
 select *
@@ -35,6 +31,5 @@ from {{ source('stripe','payments') }}
 select *
 from {{ source('snowplow', 'events') }}
 ```
-]
 
 

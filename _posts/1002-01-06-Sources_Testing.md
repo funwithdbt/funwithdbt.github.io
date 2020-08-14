@@ -4,12 +4,6 @@ layout: post
 
 ## Testing sources
 
-.denser-text[
-
-Sources as well !! wow !!
-]
-
-.denser-text[
 ```yml
 version: 2
 

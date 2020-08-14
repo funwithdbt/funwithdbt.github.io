@@ -3,9 +3,7 @@ layout: post
 ---
 
 ## Defining sources
-Sources are defined in `.yml` files in your `models/` directory.
-
-(They can co-exist with `models:` blocks)
+Sources are defined in `.yml` files in `models/` dir.
 
 ```yml
 version: 2
