@@ -2,7 +2,7 @@
 layout: post
 ---
 
-## What happens when you run `dbt test`?
+###  `dbt test` ?
 
 1. dbt connection to your **data warehouse** (via a **profile/connection**)
 2. dbt parses your **dbt project**

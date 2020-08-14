@@ -15,8 +15,6 @@ models:
           - not_null
 
 ```
-= 
-
 ```sql
 
 select
@@ -24,3 +22,4 @@ select
 
 from analytics.customers
 where customer_id is null
+```
