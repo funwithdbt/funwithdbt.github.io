@@ -11,10 +11,9 @@ layout: post
         └── core
             ├── core.yml
             └── dim_product.sql
-            ├── dim_store.sql
             └── fact_sales.sql
     └── staging
-        └── postgres
+        └── snowflake
         └── shopify
             ├── shopify.yml
             ├── stg_shopify_customers.sql
