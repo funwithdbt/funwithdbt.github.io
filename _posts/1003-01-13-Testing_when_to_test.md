@@ -2,7 +2,7 @@
 layout: post
 ---
 
-## Testing
+## Testing |  Modes
 
 * Manual: When you first run a project
 * Manual: During development
