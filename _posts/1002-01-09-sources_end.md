@@ -3,9 +3,6 @@ layout: post
 ---
 
 ## Sources 
-Given the following YML file, what will the following select statements compile to?
-
-.left-column[
 `sources.yml`
 ```yml
 version: 2
@@ -20,13 +17,10 @@ sources:
     tables:
       - name: payments
 ```
-`SQL`
 ```sql
 select *
 from {{ source('stripe','payments') }}
 ```
-
-
 ```sql
 select *
 from {{ source('snowplow', 'events') }}
